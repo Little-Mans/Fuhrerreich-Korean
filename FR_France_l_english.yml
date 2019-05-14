@@ -72,8 +72,9 @@ FRA_great_war_victors_desc:0 "When the dust had finally settled at the end of th
 FRA_rhineland_coal:0 "Coal from The Rhineland"
 FRA_rhineland_coal_desc:0 "With the acquisition of the Rhineland from Germany after the Great War, we have seen a surplus of Coal, a resource badly needed for French Industries. As long as we remain in control of the Rhineland, we can ensure profits are at an all time high."
 
-FRA_infantry_equipment_production:0 "Standardization of Armaments"
-FRA_infantry_equipment_production_desc:0 "Conscripting more men into the Land Forces means more guns will be required in order to supply them all. The production of infantry equipment has been emphasized by our armament factories... But a problem is we simply could be doing a better job producing one Armament. Why do we need all these petty things like Submachineguns and Shotguns? We will halt production on any small-arms that aren't Rifles."
+FRA_infantry_equipment_production:0 "무장 표준화"
+FRA_infantry_equipment_production_desc:0 "더 많은 병사들을 징집한다는 것은 병사들을 무장시키기 위해 필요한 총의 수 또한 더 많아진다는 뜻이기도 합니다. 군수공장들은 여태까지 보병 장비의 생산을 강조해 왔지요...
+총이 더 많이 필요하다면, 하나만 더 많이 만드는것도 해결 방법이 될 수 있습니다. 기관단총이나 산탄총같은게 왜 필요합니까? 소총을 제외한 다른 모든 소화기의 생산을 중단하도록 합시다."
 
 FRA_conscription_idea:0 "Compulsory Service"
 FRA_conscription_idea_desc:0 "The new draft has made it so that a large portion of the able-bodied French population will fight to defend la mère patrie."
@@ -84,8 +85,8 @@ FRA_militarization_idea_desc:0 "In order to produce additional weapons at a rapi
 FRA_military_academy_idea:0 "Military Academies"
 FRA_military_academy_idea_desc:0 "Every officer within the Land Army will be required to be educated from a wide array of military academies to ensure that we have the best and brightest minds within our officer corps."
 
-FRA_motorized_research:0 "Motorized Infantry Research"
-FRA_motorized_research_desc:0 "Researching and adopting new tactics for the Land Army will be quite the ordeal. However, progress is being made to better prepare the Land Army to enact the new doctrine."
+FRA_motorized_research:0 :차량화 보병 연구"
+FRA_motorized_research_desc:0 "육군을 위한 새 전술을 연구하고, 도입하는 것은 힘든 일입니다. 그렇지만 육군의 새 교리 도입은 현재 차근차근 진행되어고 있는 중입니다."
 
 FRA_offensive_army:0 "Offensive Army"
 FRA_offensive_army_desc:0 "No longer shall the Land Army use the forts of the Alsace-Rhine Line to intimidate the German menace. We shall use the might of our soldiers, and the discipline of our men, to ensure the German menace never rises again!"
